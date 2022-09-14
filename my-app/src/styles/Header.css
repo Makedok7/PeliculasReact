@@ -1,0 +1,26 @@
+header {
+    align-items: center;
+}
+
+.pageTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50;
+    font-style: italic;
+    color: rgb(214, 173, 95);
+}
+
+@media (min-width: 1200px) {
+    .pageTitle {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .pageTitle {
+        font-size: 40px;
+    }
+}
+
+ul {
+    list-style: none;
+}

@@ -1,0 +1,149 @@
+[
+    {
+        "title": "BLADE RUNNER",
+        "duration": "1h 57m",
+        "image": "../images/moviesPoster/BladeRunner.jpg",
+        "description": "A principios del siglo XXI la Tyrrell Corporation ha creado robots virtualmente idénticos a los humanos llamados \"replicantes\". Siendo más fuertes que humanos e igual de inteligentes, son declarados ilegales en la tierra. Una brigada policial especial, los Blade Runners, están encargados de encontrar y eliminar replicantes renegados en la tierra. Cuando un grupo peligroso de replicantes se escapan a la ciudad de Los Ángeles, el Blade Runner Deckard es encargado de encontrarlos y eliminarlos.",
+        "actors": "Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, Daryl Hannah.",
+        "tags": [
+            "Acción",
+            "Ciencia Ficción",
+            "Suspenso",
+            "Neo-noir",
+            "Cyberpunk"
+        ],
+        "reviews": [
+            [
+                "https://www.metacritic.com/movie/blade-runner",
+                "Metacritic",
+                "84%"
+            ],
+            [
+                "https://www.rottentomatoes.com/m/blade_runner",
+                "Rotten Tomatoes",
+                "89%"
+            ],
+            [
+                "https://www.imdb.com/title/tt0083658/?ref_=nv_sr_srsg_3",
+                "IMDb",
+                "81%"
+            ]
+        ]
+    },
+    {
+        "title": "GHOST IN THE SHELL",
+        "duration": "1h 23m",
+        "image": "../images/moviesPoster/GhostInTheShell.jpg",
+        "description":"En esta película de animación japonesa, un agente cibernético debe detener a un pirata informático experto en introducirse en los sistemas de programación de híbridos mitad humanos, mitad robots, antes de que pueda lograr sus perversos objetivos. Sin embargo, cuando los detectives descubren quien se esconde tras el pirata, toda la trama toma un giro inesperado.",
+        "actors": "Atsuko Tanaka, Akio Ōtsuka, Iemasa Kayumi, Kōichi Yamadera, Tamio Ōki.",
+        "tags": [
+            "Acción",
+            "Anime",
+            "Drama",
+            "Misterio",
+            "Cyberpunk",
+            "Thriller psicológico"
+        ],
+        "reviews": [
+            [
+                "https://www.metacritic.com/movie/ghost-in-the-shell",
+                "Metacritic",
+                "76%"
+            ],
+            [
+                "https://www.rottentomatoes.com/m/ghost_in_the_shell",
+                "Rotten Tomatoes",
+                "97%"
+            ],
+            [
+                "https://www.imdb.com/title/tt0113568/",
+                "IMDb",
+                "79%"
+            ]
+        ]
+    },
+    {
+        "title": "2001: A SPACE ODYSSEY",
+        "duration": "2h 19m",
+        "image": "../images/moviesPoster/ASpaceOdyssey.jpg",
+        "description":"La película de ciencia ficción por antonomasia de la historia del cine narra los diversos periodos de la historia de la humanidad, no sólo del pasado, sino también del futuro. Hace millones de años, antes de la aparición del homo sapiens, unos primates descubren un monolito que los conduce a un estadio de inteligencia superior. Millones de años después, otro monolito, enterrado en una luna, despierta el interés de los científicos.",
+        "actors": "Keir Dullea, Gary Lockwood, Leonard Rossiter, Margaret Tyzack.",
+        "tags": [
+            "Ciencia Ficción",
+            "Épica"
+        ],
+        "reviews": [
+            [
+                "https://www.metacritic.com/movie/2001-a-space-odyssey",
+                "Metacritic",
+                "84%"
+            ],
+            [
+                "https://www.rottentomatoes.com/m/2001_a_space_odyssey",
+                "Rotten Tomatoes",
+                "92%"
+            ],
+            [
+                "https://www.imdb.com/title/tt0062622/",
+                "IMDb",
+                "83%"
+            ]
+        ]
+    },
+    {
+        "title": "DREDD",
+        "duration": "1h 36m",
+        "image": "../images/moviesPoster/Dredd.jpg",
+        "description":"En una metrópolis violenta y vasta, cuyas calles son controladas por los criminales, la única ley es la de los policías, quienes actúan como ejecutores, jurados y jueces, y Dredd es uno de los más temidos de la ciudad. Un día, Dredd es acompañado por Cassandra, una novata con poderosas habilidades psíquicas. El reporte de un crimen terrible envía a Dredd y Cassandra a una peligrosa área controlada por Ma-Ma.",
+        "actors": "Karl Urban, Olivia Thirlby, Lena Headey, Wood Harris.",
+        "tags": [
+            "Ciencia Ficción",
+            "Acción"
+        ],
+        "reviews": [
+            [
+                "https://www.metacritic.com/movie/dredd",
+                "Metacritic",
+                "60%"
+            ],
+            [
+                "https://www.rottentomatoes.com/m/dredd",
+                "Rotten Tomatoes",
+                "79%"
+            ],
+            [
+                "https://www.imdb.com/title/tt1343727/",
+                "IMDb",
+                "71%"
+            ]
+        ]
+    },
+    {
+        "title": "DUNE",
+        "duration": "2h 35m",
+        "image": "../images/moviesPoster/Dune.jpg",
+        "description":"Arrakis, también denominado \"Dune\", se ha convertido en el planeta más importante del universo. A su alrededor comienza una gigantesca lucha por el poder que culmina en una guerra interestelar.",
+        "actors": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, Zendaya",
+        "tags": [
+            "Ciencia Ficción",
+            "Épica"
+        ],
+        "reviews": [
+            [
+                "https://www.metacritic.com/movie/dune-part-one",
+                "Metacritic",
+                "74%"
+            ],
+            [
+                "https://www.rottentomatoes.com/m/dune_2021",
+                "Rotten Tomatoes",
+                "83%"
+            ],
+            [
+                "https://www.imdb.com/title/tt1160419/",
+                "IMDb",
+                "80%"
+            ]
+        ]
+    }
+]

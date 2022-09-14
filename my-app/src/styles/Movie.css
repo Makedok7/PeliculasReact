@@ -1,0 +1,48 @@
+/*
+.imageMovie{
+    min-width: 150px;
+    max-width: 250px;
+    min-height: 300px;
+    max-height: 400px;
+}
+*/
+.titleMovie{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color:rgb(231, 71, 151);
+}
+.durationMovie{
+    margin-left: 20px;
+    color: rgb(214, 173, 95);;
+}
+.synopsisDescription h1{
+    color: rgb(85, 204, 198);
+    font-size: 210%;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.synopsisDescription p{
+    font-size: 180%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(85, 204, 198);
+}
+.actorsMovie{
+    font-size: 110%;
+    color: rgb(214, 173, 95);;
+    font-style: italic;
+    text-decoration: none;
+}
+.tag{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(214, 173, 95);;
+    font-weight: 500;
+}
+.reviewPage{
+    font-size: 130%;
+    font-style: italic;
+    color: rgb(214, 173, 95);;
+}
+.separatorMovie{
+    border:3px solid white;
+    border-radius: 3px;
+}
