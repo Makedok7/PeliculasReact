@@ -1,9 +1,9 @@
-/*
+/* La imagen no se deforma demasiado pero presenta ciertos problemas a la hora de ser responsivo
 .imageMovie{
-    min-width: 150px;
-    max-width: 250px;
-    min-height: 300px;
-    max-height: 400px;
+    min-width: 100px;
+    max-width: 200px;
+    min-height: 200px;
+    max-height: 300px;
 }
 */
 .titleMovie{

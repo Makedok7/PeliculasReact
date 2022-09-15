@@ -7,9 +7,9 @@ function CarouselFade() {
     <div id="carouselExampleFade" class="carousel slide carousel-fade pt-2 " data-bs-ride="carousel" data-bs-interval="60000" style={{backgroundImage:'url(/images/banners/banner5.jpg',backgroundSize:"cover"}}>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <div className="text-center " style={{ color: "rgb(231, 71, 151)" ,fontStyle:"italic"}}>
-            <img src='/images/banners/banner-welcome.png' alt="welcome"/>
-            <h1>DESLIZA PARA VER LAS PELICULAS</h1>
+          <div className="text-center w-75 mx-auto" style={{ color: "rgb(231, 71, 151)" ,fontStyle:"italic"}}>
+            <img src='/images/banners/banner-welcome.png' alt="welcome" class="img-fluid"/>
+            <h1 class="text-wrap">DESLIZA PARA VER LAS PELICULAS</h1>
           </div>
         </div>
         {movies.map(movie =>
